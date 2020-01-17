@@ -16,9 +16,9 @@ Things you may want to cover:
 * Configuration
 
 * Database creation
-
+<br> rake db:create 
 * Database initialization
-
+<br>rake db:migrate
 * How to run the test suite
 
 * Services (job queues, cache servers, search engines, etc.)
