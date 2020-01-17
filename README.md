@@ -6,13 +6,13 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
-2.6.5
+<br> 2.6.5
 
 * Rails version
-5.2.3
+<br> 5.2.3
 
 * System dependencies
-
+<br> Devise
 * Configuration
 
 * Database creation
