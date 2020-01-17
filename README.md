@@ -6,6 +6,10 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
+2.6.5
+
+* Rails version
+5.2.3
 
 * System dependencies
 
@@ -22,3 +26,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+Structure of Database
+![Image of Database structure](https://github.com/luizromariofilho/polymorphic/blob/master/docs/bd_model.png)
